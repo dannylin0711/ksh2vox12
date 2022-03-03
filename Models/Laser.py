@@ -1,4 +1,4 @@
-from Track import Track
+from Models.Track import Track
 
 class Laser:
     def __init__(self):
